@@ -1,7 +1,7 @@
 const button = document.querySelector("button")!;
 const input1 = document.getElementById("num1")! as HTMLInputElement;
 const input2 = document.getElementById("num2")! as HTMLInputElement;
-// ! this indicates that input element  never be null
+// ! this indicates that input element  never be null !!
 
 function add(num1: number, num2: number) {
   return num1 + num2;
