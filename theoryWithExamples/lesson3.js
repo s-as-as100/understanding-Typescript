@@ -12,3 +12,5 @@
 
 
 // typesrcipt is statically typed they doesn't change during the run time
+// example
+
